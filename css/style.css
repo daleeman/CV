@@ -168,17 +168,15 @@ a:hover {
 
 .work {
   color: #27496d;
-  position: absolute;
-  bottom: 620px;
-  left: 1100px;
+  position: relative;
+  bottom: 60px;
   font-size: medium;
 }
 
 .edu {
   color: #27496d;
-  position: absolute;
-  bottom: 620px;
-  left: 1170px;
+  position: relative;
+  bottom: 60px;
   font-size: medium;
 }
 
