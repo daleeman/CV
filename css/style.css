@@ -158,6 +158,22 @@ a:hover {
   margin-right: 40px;
 }
 
+.work {
+  color: #27496d;
+  position: absolute;
+  bottom: 620px;
+  left: 1100px;
+  font-size: medium;
+}
+
+.edu {
+  color: #27496d;
+  position: absolute;
+  bottom: 620px;
+  left: 1170px;
+  font-size: medium;
+}
+
 /* .code-desc {
     clear: left;
 }
